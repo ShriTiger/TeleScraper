@@ -1,2 +1,6 @@
-# TelegramAutoJoiner
-Python tool for automating Telegram channel enrollment to support OSINT, monitoring
+# TeleScraper
+Python tool that automatically joins Telegram channels from a provided list and exports channel messages to CSV format using the Telegram API.
+This tool automates the process of
+Joining Telegram channels,
+Scraping channel messages and
+Exporting results to CSV files
